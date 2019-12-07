@@ -7,20 +7,20 @@
 以下为***Deeper Depth Prediction with Fully Convolutional Residual Networks***实现的深度效果，其开源代码[github-fcrn](https://github.com/iro-cp/FCRN-DepthPrediction)
 
 
-![image text](https://github.com/Youjiangbaba/PrectictingDepth-DeepLearn-pdf/blob/master/images/fcrn-faces1.jpg)
+![image text](https://github.com/Youjiangbaba/PrectictingDepth-DeepLearn-pdf/blob/master/images/fcrn-faces1.png)
 
-![image text](https://github.com/Youjiangbaba/PrectictingDepth-DeepLearn-pdf/blob/master/images/fcrn-faces2.jpg)
+![image text](https://github.com/Youjiangbaba/PrectictingDepth-DeepLearn-pdf/blob/master/images/fcrn-faces2.png)
 
-![image text](https://github.com/Youjiangbaba/PrectictingDepth-DeepLearn-pdf/blob/master/images/fcrn-faces3.jpg)
+![image text](https://github.com/Youjiangbaba/PrectictingDepth-DeepLearn-pdf/blob/master/images/fcrn-faces3.png)
 
 以下为
 ***Revisiting Single Image Depth Estimation:Toward Higher Resolution Maps with Accurate Object Boundaries***的深度估计效果，其开源代码[github-senet](https://github.com/junjH/Revisiting_Single_Depth_Estimation)
 
-![image text](https://github.com/Youjiangbaba/PrectictingDepth-DeepLearn-pdf/blob/master/images/senet-faces1.jpg)
+![image text](https://github.com/Youjiangbaba/PrectictingDepth-DeepLearn-pdf/blob/master/images/senet-faces1.png)
 
-![image text](https://github.com/Youjiangbaba/PrectictingDepth-DeepLearn-pdf/blob/master/images/senet-faces2.jpg)
+![image text](https://github.com/Youjiangbaba/PrectictingDepth-DeepLearn-pdf/blob/master/images/senet-faces2.png)
 
-![image text](https://github.com/Youjiangbaba/PrectictingDepth-DeepLearn-pdf/blob/master/images/senet-faces3.jpg)
+![image text](https://github.com/Youjiangbaba/PrectictingDepth-DeepLearn-pdf/blob/master/images/senet-faces3.png)
 
 可以看出，图二的对比，fcrn网络的实现是比较准确的，单但看深度图效果，文章2输出的深度图在边界轮廓的处理上有较好的效果。
 
